@@ -10,6 +10,8 @@
             Console.WriteLine("MyFirstName = Adam");
             Console.WriteLine("MyLastName = Ab");
             Console.WriteLine("MyFullName = Adam + Ab");
+            Console.WriteLine("myFirstName = William");
+            Console.WriteLine("myLastName = Cram");
            
 
         }
