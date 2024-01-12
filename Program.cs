@@ -9,7 +9,7 @@
             Console.WriteLine("Adam");
             Console.WriteLine("MyFirstName = Adam");
             Console.WriteLine("MyLastName = Ab");
-            Console.WriteLine("MyFullName = myFirstName + myLastName");
+            Console.WriteLine("MyFullName = Adam + Ab");
            
 
         }
